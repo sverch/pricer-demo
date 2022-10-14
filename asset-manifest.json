@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/pricer-demo/static/css/main.073c9b0a.css",
-    "main.js": "/pricer-demo/static/js/main.475efa0d.js",
+    "main.js": "/pricer-demo/static/js/main.6d67bbac.js",
     "static/js/787.3884e619.chunk.js": "/pricer-demo/static/js/787.3884e619.chunk.js",
     "static/media/logo.svg": "/pricer-demo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/pricer-demo/index.html",
     "main.073c9b0a.css.map": "/pricer-demo/static/css/main.073c9b0a.css.map",
-    "main.475efa0d.js.map": "/pricer-demo/static/js/main.475efa0d.js.map",
+    "main.6d67bbac.js.map": "/pricer-demo/static/js/main.6d67bbac.js.map",
     "787.3884e619.chunk.js.map": "/pricer-demo/static/js/787.3884e619.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.475efa0d.js"
+    "static/js/main.6d67bbac.js"
   ]
 }
